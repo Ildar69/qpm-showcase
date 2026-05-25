@@ -66,10 +66,10 @@ Kanban-доски с drag & drop. Подзадачи, комментарии, н
 ### ⚙️ Технологии
 
 ```
-Backend:    Django 5.2, Django REST Framework, PostgreSQL
-Frontend:   Vanilla JS, HTML/CSS (без фреймворков)
-Инфра:      Railway, Backblaze B2, Redis
-Прочее:     Chart.js, openpyxl, APScheduler, WebSockets
+**Backend:** Django 5.2, Django REST Framework, PostgreSQL  
+**Frontend:** Vanilla JS, HTML/CSS — без фреймворков, полный контроль над интерфейсом  
+**Инфраструктура:** Railway (деплой), Backblaze B2 (файлы), Redis (WebSockets)  
+**Инструменты:** Chart.js, openpyxl, APScheduler, Push Notifications (VAPID)
 ```
 
 ---

@@ -63,16 +63,6 @@ Kanban-доски с drag & drop. Подзадачи, комментарии, н
 
 ---
 
-### 📸 Скриншоты / Screenshots
-
-![Главная страница](docs/screenshots/login.png)
-![Дом](docs/screenshots/home.png)
-![Менеджер задач](docs/screenshots/task.png)
-![Регистраци и анализ дефектов](docs/screenshots/defects.png)
-![Аналитика](docs/screenshots/analytics_and_tools.png)
-
----
-
 ### ⚙️ Технологии
 
 ```
@@ -125,6 +115,14 @@ Frontend:   Vanilla JS, HTML/CSS (без фреймворков)
 ### What is QPM?
 
 QPM is a web-based production management platform built to replace Excel spreadsheets and paper journals. It combines quality control, defect tracking, document management, task management, and analytics into a single system.
+
+### 📸 Скриншоты / Screenshots
+
+![Главная страница](docs/screenshots/login.png)
+![Дом](docs/screenshots/home.png)
+![Менеджер задач](docs/screenshots/task.png)
+![Регистраци и анализ дефектов](docs/screenshots/defects.png)
+![Аналитика](docs/screenshots/analytics_and_tools.png)
 
 **Live Demo:** [qpm-app.up.railway.app](https://qpm-app.up.railway.app)
 

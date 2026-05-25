@@ -110,7 +110,7 @@ Frontend:   Vanilla JS, HTML/CSS (без фреймворков)
 ---
 ---
 
-## 🇬🇧 English
+[🇬🇧 English](#-english) · [🇷🇺 Русский](#-русский) 
 
 ### What is QPM?
 

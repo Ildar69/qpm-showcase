@@ -63,6 +63,16 @@ Kanban-доски с drag & drop. Подзадачи, комментарии, н
 
 ---
 
+### 📸 Скриншоты / Screenshots
+
+![Главная страница](docs/screenshots/login.png)
+![Дом](docs/screenshots/home.png)
+![Менеджер задач](docs/screenshots/task.png)
+![Регистраци и анализ дефектов](docs/screenshots/defects.png)
+![Аналитика](docs/screenshots/analytics_and_tools.png)
+
+---
+
 ### ⚙️ Технологии
 
 ```

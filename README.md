@@ -108,14 +108,6 @@ Frontend:   Vanilla JS, HTML/CSS (без фреймворков)
 > *QPM создан как доказательство того, что внутренние инструменты не обязаны быть некрасивыми и неудобными. Это MVP платформы которая масштабируется под любой производственный процесс.*
 
 ---
----
-
-[🇬🇧 English](#-english) · [🇷🇺 Русский](#-русский) 
-
-### What is QPM?
-
-QPM is a web-based production management platform built to replace Excel spreadsheets and paper journals. It combines quality control, defect tracking, document management, task management, and analytics into a single system.
-
 ### 📸 Скриншоты / Screenshots
 
 ![Главная страница](docs/screenshots/login.png)
@@ -123,6 +115,13 @@ QPM is a web-based production management platform built to replace Excel spreads
 ![Менеджер задач](docs/screenshots/task.png)
 ![Регистраци и анализ дефектов](docs/screenshots/defects.png)
 ![Аналитика](docs/screenshots/analytics_and_tools.png)
+---
+
+[🇬🇧 English](#-english) · [🇷🇺 Русский](#-русский) 
+
+### What is QPM?
+
+QPM is a web-based production management platform built to replace Excel spreadsheets and paper journals. It combines quality control, defect tracking, document management, task management, and analytics into a single system.
 
 **Live Demo:** [qpm-app.up.railway.app](https://qpm-app.up.railway.app)
 

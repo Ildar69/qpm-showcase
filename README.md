@@ -76,7 +76,7 @@ Frontend:   Vanilla JS, HTML/CSS (без фреймворков)
 
 ### 🏭 Реальный кейс
 
-Платформа разработана и внедрена на **автомобильном производстве** в Казахстане. Используется операторами контроля качества для регистрации дефектов ЛКП и замеров толщины покрытия по моделям: A13T, A01, CS55, P01.
+Платформа разработана и внедрена на **автомобильном производстве** в Казахстане. Используется операторами контроля качества для регистрации дефектов ЛКП и замеров толщины покрытия.
 
 **Что заменила:**
 - Google Таблицы для учёта дефектов
@@ -173,7 +173,7 @@ Other:      Chart.js, openpyxl, APScheduler, WebSockets
 
 ### 🏭 Real-World Case
 
-The platform was developed and deployed at an **automotive manufacturing facility** in Kazakhstan. Used by quality control operators to register paint coating defects and track coating thickness measurements across models: A13T, A01, CS55, P01.
+The platform was developed and deployed at an **automotive manufacturing facility** in Kazakhstan. Used by quality control operators to register paint coating defects and track coating thickness measurements.
 
 **Replaced:**
 - Google Sheets for defect tracking

@@ -112,7 +112,7 @@ Frontend:   Vanilla JS, HTML/CSS (без фреймворков)
 ---
 ### 📸 Скриншоты / Screenshots
 
-![Главная страница](docs/screenshots/login.png)
+![Главная страница](docs/screenshots/logn.png)
 ![Дом](docs/screenshots/home.png)
 ![Менеджер задач](docs/screenshots/task.png)
 ![Регистраци и анализ дефектов](docs/screenshots/defects.png)

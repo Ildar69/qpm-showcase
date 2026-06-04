@@ -5,7 +5,7 @@
 **Модульная платформа управления производством**  
 *Modular Production Management Platform*
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-qpm--app.up.railway.app-D32F2F?style=for-the-badge)](https://qpm-app.up.railway.app)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-qpm--app.up.railway.app-D32F2F?style=for-the-badge)](https://qpm.kz/)
 [![Django](https://img.shields.io/badge/Django-5.2-092E20?style=for-the-badge&logo=django)](https://djangoproject.com)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Railway-4169E1?style=for-the-badge&logo=postgresql)](https://railway.app)
 
